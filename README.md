@@ -18,24 +18,14 @@ With this project, we aim at using information from `NAV` and other Norwegian jo
 | ![Geir Arne](https://github.com/gahjelle.png?size=64)  | Geir Arne Hjelle | [@gahjelle](https://github.com/gahjelle)           |              | Developer      |
 
 
-Join us on [Slack](http://dataforgood.no/contact-us/)
-
-### We Need Your Help
-
-See [all tasks](https://github.com/DataForGood-Norway/JobMatch/issues) or click in the table below to find a list of specfic tasks.
-
-
-|          | Easy Tasks  | Medium Tasks | Ninja Tasks  |
-| task #1  |   T.B.D.    |    T.B.D.    |    T.B.D.    |
-| task #2  |   T.B.D.    |    T.B.D.    |    T.B.D.    |
-| task #3  |   T.B.D.    |    T.B.D.    |    T.B.D.    |
-
+Join us on [Slack](http://dataforgood.no/contact-us/),
+then join our channel [#jobmatch](https://dataforgood-norway.slack.com/messages/C9US3CNDU/details/).
 
 ## What Are We Doing?
 
 This project hasn't started yet, but preliminary work would include:
 
-* **BobEmploi**: Following and understanding the work done by Bayes Impact on [`BobEmploi`](https://github.com/bayesimpact/bob-emploi/blob/master/README.md).
+* **BobEmploi**: Following and understanding the work done by [Bayes Impact](https://www.bayesimpact.org/) on [`BobEmploi`](https://github.com/bayesimpact/bob-emploi/blob/master/README.md).
 
 * **Data Collection**: Looking for similar data used in `BobEmploi`, most probably coordinating with [`NAV`](https://www.nav.no/no/Person/Arbeid/Arbeidsledig+og+jobbsoker) and ['finn.no'](https://www.finn.no/job/browse.html).
 
